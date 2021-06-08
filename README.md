@@ -2,8 +2,6 @@
 - 👀 I’m interested in web development
 - 💞️ Currently a reactjs developer
 - 📫 How to reach me aliraza.lalani12@gmail.com
-- <!-- - 🌱 I’m currently learning AI -->
-<!-- - 💞️ I’m looking to collaborate on ... -->
 
 <!---
 alirazalalani/alirazalalani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
