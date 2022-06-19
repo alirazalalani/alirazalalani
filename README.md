@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alirazalalani
-- 👀 I’m interested in web development
-- 💞️ Currently a reactjs developer
+- 👀 I’m interested in Mobile Application Development
+- 💞️ Currently a React-Native developer
 - 📫 How to reach me aliraza.lalani12@gmail.com
 
 <!---
