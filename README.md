@@ -6,9 +6,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software Engineering at Mehran University of Engineering and Technology, Jamshoro.
-<!-- - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited. -->
-- 🌱 &nbsp; Learning more about ReactNative, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Digital Marketing and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about MERN Stack
+- ✍️ &nbsp; Pursuing Digital Marketing as a side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
